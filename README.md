@@ -5,6 +5,7 @@ It was group project. We have been given the data from United Nations Internatio
 We used Tableau for all of our visilizations and then explain the result of the graphs base on the key factor of the story and business question.
 
 ## steps that we done
+Cleaning the data sets
 Compare All of the Regions in the World (my task)
 Compare our three chosen countries with the world (my task)
 Compare each country with their regions and the world (my task)
