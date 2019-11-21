@@ -1,14 +1,14 @@
 # Visuliztion
-It was our group project. We have been given the data from United Nations International Children's Emergency Fund (UNICEF) which consists of the morality rates and the causes of death. We chose to work on Japan, Thailand and Burkina Faso 
+It was group project. We have been given the data from United Nations International Children's Emergency Fund (UNICEF) which consists of the morality rates and the causes of death. We chose to work on Japan, Thailand and Burkina Faso 
 
 ## Tool
-We used Tableau for all of our visilizations 
+We used Tableau for all of our visilizations and then explain the result of the graphs base on the key factor of the story and business question.
 
 ## steps that we done
-Compare All of the Regions in the World
-Compare our three chosen countries with the world
-Compare each country with their regions and the world
-Forecasting the future
+Compare All of the Regions in the World (my task)
+Compare our three chosen countries with the world (my task)
+Compare each country with their regions and the world (my task)
+Forecasting the future (my task)
 Cause by Death
 
 ## Conclusion
